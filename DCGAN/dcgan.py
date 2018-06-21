@@ -8,6 +8,7 @@ import  numpy  as  np
 from  tqdm  import  tqdm
 import  matplotlib.pyplot  as plt
 
+
 import keras
 from keras.models import Sequential
 from keras.layers import Dense, Activation, BatchNormalization, Reshape, Flatten, Dropout
